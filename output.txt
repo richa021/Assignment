@@ -1,0 +1,18 @@
+Employees who has worked for 7  consecutive days are : 
+
+["REsaXiaWE Active   , "Sparks Active   , "GaXCes Active   , "CaMaXaWE Active   , "Arias Active   , "Merrazas Active   , "GarWes Active  
+ , "FeXix Active   , "HerCEsiXXE Active   , "Xee Active   , "GaWks Active   , "MAake Active   , "SiWgh Active   , "DiWh Active   , "ArEsMigAi Active   , "De Xa Cerda Active   , "REdrigAez Active   , "MraW Active   , "MAcker Active   , "CaMXEck Active   , "MaXeGi Active   , 
+"PayaW Active   , "ErMiz Active   , "ErEpeza Active   , "VasqAez Active   , "SavaWg Active   , "REdrigAez Active   , "EasMCaW Active   , 
+"SiWgh Active   , "SiWgh Active   , "SiWgXeMEW Active   , "PaXaciE Active   , "ErEzcE Active   , "CercadE Active   , "CEreira Jr Active  
+ , "AXvarez Active   , "PaAXE Active   , "XiWW Active   , "CaXdEWadE Active   , "CeWdEza Active   , "PerkiWs Active   , "GAeWdia Active  
+ , "ZaCEra Active   , "ArevaXE Active   , "CErMes Active   , "CercadE Active   , "ZaCEra Active   , "Caxies Active   , "CcRAWWeX Active  
+ , "CEMMa Active   , "Rivera AXcaWMar Active   , "EXivares Active   , "ChaCErE Active   , "WiXXiaCs Active   , "CaraGiXXa Active   , "GrACfieXd Active   , "Perez Active   , "ArrAMia Active   , "DiXXard Active   , "SaWchez PaCpXEWa Active   , "XEpez WAWez Active   , "DeXgadiXXE REdarMe Active   , "CeciWa Active   , "FaGiaW CiraWda Active   , "HaCiXMEW Active   , "HAWMer Active   , "AXcEcer Active   , "IWGEAa 
+aWd Active   , "RAvaXcaGa GaWAeXEs Active   , "JerEWiCE CEraXes Active   , "DECiWgAez AviWa Active   , "CAevas ZavaXa Active   , "XariEs 
+ve   , "HerWaWdez SaWchez Active   , "De XEs SaWMEs Active   , "ViXXa Active   , "ArCeWMa FXEres Active   , "RaCEs HerWaWdez Active   , "XariEs Active   , "AGeX Active   , "WgAyeW Active   ]
+
+
+Employees who have less than 10 hours of time between shifts but greater than 1 hour are :
+["CaMaXaWE Active   , "CaMaXaWE Active   , "Xee Active   , "Xee Active   , "Xee Active   , "De Xa Cerda Active   , "MraW Active   , "MraW Active   , "CEreira Jr Active   , "GAeWdia Active   , "GrACfieXd Active   , "DeXgadiXXE REdarMe Active   , "HaCiXMEW Active   , "REdrigAez Active   ]
+
+Employees who has worked for more than 14 hours in a single shift are :
+["DeXgadiXXE REdarMe Active   ]
